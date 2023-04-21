@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cardboard boxes
+* source:	https://sketchfab.com/3d-models/cardboard-boxes-3e679f329a314583ab0cbb7caf33c163
+* author:	Alexandre_Gomes (https://sketchfab.com/Alexandre_Gomes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cardboard boxes" (https://sketchfab.com/3d-models/cardboard-boxes-3e679f329a314583ab0cbb7caf33c163) by Alexandre_Gomes (https://sketchfab.com/Alexandre_Gomes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
